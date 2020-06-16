@@ -1,2 +1,2 @@
 # yarn-test
-Um pacote yarn
+Um pacote yarn para teste
